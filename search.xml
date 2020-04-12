@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>m第一篇</title>
-      <link href="/2020/04/11/m-di-yi-pian/"/>
-      <url>/2020/04/11/m-di-yi-pian/</url>
+      <title>第一章</title>
+      <link href="/2020/04/12/di-yi-pian/"/>
+      <url>/2020/04/12/di-yi-pian/</url>
       
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><p>终于完成了初步的博客搭建</p><p>这个想法应该两年前就有了，但是一直没有机会实现</p><p>本站采用hexo框架搭建，主题为matery</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搭建博客 </tag>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
       
     </entry>
     
