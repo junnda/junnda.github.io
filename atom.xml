@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>余小达</title>
+  <title>🐟小达的个人站点</title>
   
-  <subtitle>潜心修炼</subtitle>
+  <subtitle>默存</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://junnda.github.io/"/>
-  <updated>2020-04-12T06:20:32.250Z</updated>
+  <updated>2020-04-12T14:22:17.087Z</updated>
   <id>http://junnda.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://junnda.github.io/2020/04/12/di-yi-pian/"/>
     <id>http://junnda.github.io/2020/04/12/di-yi-pian/</id>
     <published>2020-04-12T06:10:00.000Z</published>
-    <updated>2020-04-12T06:20:32.250Z</updated>
+    <updated>2020-04-12T14:22:17.087Z</updated>
     
     <summary type="html">
     
